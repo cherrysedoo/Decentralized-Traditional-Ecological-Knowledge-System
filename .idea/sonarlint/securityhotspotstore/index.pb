@@ -7,3 +7,5 @@ S
 #tests/conservation-practice.test.ts,6/4/64e7a8d7f4fa9d1aa9e9bf4cb115d2e6507e5126
 T
 $contracts/knowledge-registering.clar,3/0/306a47f6ca4388485a4eae26fc5fb684abc758ed
+Q
+!contracts/seasonal-indicator.clar,f/d/fd8be0d16582f8ca04ca9d55b34bee214d378c27
